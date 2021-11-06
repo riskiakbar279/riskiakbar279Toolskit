@@ -1,6 +1,7 @@
 # code by @riskiakbar279
 # website : riskiakbar279.rf.gd
 # artikel  : sxcodeprogrammerid.xyz
+# website : eduteknologi.com
 
 #import system
  figlet SXCODE ID SEC| lolcat
